@@ -19,7 +19,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/varshil medidhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshil medidhi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varshilmedidhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshil medidhi" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/medidhivarshil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medidhivarshil" height="30" width="40" /></a>
 
