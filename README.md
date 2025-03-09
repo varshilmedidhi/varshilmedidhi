@@ -5,7 +5,6 @@
 
 <h3 align="center">A passionate Software developer studying at Michigan state university.</h3>
 
-<img class="right-align" alt="Coding" src="https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshilmedidhi&label=Profile%20views&color=0e75b6&style=flat" alt="varshilmedidhi" /> </p>
